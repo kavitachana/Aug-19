@@ -8,7 +8,6 @@ public class Encrypt {
 
 		char character;
 		int encrypted;
-//		int randomAssigner;
 		ArrayList<Integer> messageInAscii = new ArrayList<>();
 
 		System.out.print("Your encrypted message is: ");
